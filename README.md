@@ -1,4 +1,4 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=RasheedRendon/Practica10MSF)
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
@@ -36,9 +36,9 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = **59**;
-2. x2(0) = **44**;
-3. x3(0) = **885**;
+1. x1(0) = **[59.0668   58.5776   58.7357   59.3452   58.8728   59.5817   58.6822   59.3926   58.6229   59.2234]**;
+2. x2(0) = **[44.0498   43.6850   43.8029   44.2575   43.9051   44.4338   43.7630   44.2928   43.7187   44.1666]**;
+3. x3(0) = **[886.0016  878.6644  881.0359  890.1784  883.0915  893.7249  880.2325  890.8890  879.3430  888.3504]**;
 
 
 
